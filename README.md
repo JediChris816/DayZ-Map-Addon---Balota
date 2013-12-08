@@ -3,7 +3,7 @@ DayZ-Map-Addon---Balota
 
 Balota addon for Dayz | Chernarus/Overwatch
 
-You can download the file here: http://sdrv.ms/1d2Sn0j
+You can download the file here: http://sdrv.ms/1gONw5N (images available also)
 
 In your mission PBO, create a new folder called "map addons".  Place the balota_addon.SQF in the folder you made.
 
